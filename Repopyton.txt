@@ -1,3 +1,4 @@
-print: hello world 
+print: ("hello world") 
 print: whats fuck?
-print: "who you" 
+print: "who you"
+
