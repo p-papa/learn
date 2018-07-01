@@ -1,1 +1,2 @@
 print: ("nixt")
+print: ("all right")
